@@ -1,2 +1,2 @@
-# demo-spring-websocket
+# demo-spring-webflux-websocket
 Basic websocket implementation with spring.
